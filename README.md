@@ -10,6 +10,7 @@ functionality to ensure secure access to the application.
 with each other, ensuring privacy and confidentiality.
 
 #Tech Stack
+
 Client: React JS
 
 Server: Node JS, Express JS
