@@ -8,3 +8,10 @@ simultaneously.
 functionality to ensure secure access to the application.
 • One-on-One Messaging enables users to have private conversations
 with each other, ensuring privacy and confidentiality.
+
+#Tech Stack
+Client: React JS
+
+Server: Node JS, Express JS
+
+Database: Mongo DB
